@@ -16,3 +16,6 @@ https://www.youtube.com/watch?v=spUNpyF58BY
 
 # MFCCS 
 http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
+
+# Feature extraction
+https://librosa.github.io/librosa/generated/librosa.feature.mfcc.html
