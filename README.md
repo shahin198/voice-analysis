@@ -10,3 +10,9 @@ http://mac.citi.sinica.edu.tw/~yang/teaching/lecture10_separation.pdf
 https://librosa.github.io/librosa/tutorial.html
 
 https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/
+
+# what is the Fourier Transform? A visual introduction
+https://www.youtube.com/watch?v=spUNpyF58BY
+
+# MFCCS 
+http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-frequency-cepstral-coefficients-mfccs/
