@@ -19,3 +19,6 @@ http://practicalcryptography.com/miscellaneous/machine-learning/guide-mel-freque
 
 # Feature extraction
 https://librosa.github.io/librosa/generated/librosa.feature.mfcc.html
+
+# Spectrogram, Cepstrum and Mel-Frequency *****
+https://archive.org/details/SpectrogramCepstrumAndMel-frequency_636522
