@@ -14,6 +14,8 @@ https://github.com/jiaaro/pydub#installation
 
 https://www.analyticsvidhya.com/blog/2017/08/audio-voice-processing-deep-learning/
 
+https://github.com/MaxStrange/AudioSegment
+
 # what is the Fourier Transform? A visual introduction
 https://www.youtube.com/watch?v=spUNpyF58BY
 
