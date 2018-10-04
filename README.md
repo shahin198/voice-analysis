@@ -1,6 +1,8 @@
 # voice-analysis
 http://www.howmusicworks.org/103/Sound-and-Music/Amplitude-and-Frequency
 
+https://en.wikipedia.org/wiki/Spectral_density_estimation
+
 # Harmonic
 https://www.youtube.com/watch?v=a6ZJOBIlO-E
 
