@@ -1,3 +1,10 @@
+# install
+```
+pip3 install pydub --user
+pip3 install librosa --user
+```
+
+
 # voice-analysis
 http://www.howmusicworks.org/103/Sound-and-Music/Amplitude-and-Frequency
 
@@ -29,3 +36,4 @@ https://librosa.github.io/librosa/generated/librosa.feature.mfcc.html
 
 # Spectrogram, Cepstrum and Mel-Frequency *****
 https://archive.org/details/SpectrogramCepstrumAndMel-frequency_636522
+
